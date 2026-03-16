@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://dingzhaobo.net/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Zhaobo Ding'
 
 [caches]
   [caches.images]
