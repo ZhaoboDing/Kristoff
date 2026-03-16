@@ -1,0 +1,17 @@
+# -- Main Menu --
+# Simplified Chinese navigation menu
+
+[[main]]
+  name = "关于"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "文章"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "简历"
+  pageRef = "resume"
+  weight = 30
