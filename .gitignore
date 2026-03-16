@@ -115,3 +115,5 @@ firebase-service-account.json
 # Google Analytics export (temporary)
 ga-pageviews.csv
 *.csv
+
+hugo.exe
