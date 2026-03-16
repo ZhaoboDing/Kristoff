@@ -27,8 +27,8 @@ layoutBackgroundHeaderSpace: false
 这个空间用来记录那些曾经闪过脑海、或正在持续思考的问题与灵感——技术探索、文化观察、生活碎片，皆在此沉淀。
 
 爱好：
-- 📚 中国历史与古典文学，在故纸堆里寻找智慧与共鸣
 - 🔢 数学与编程，享受逻辑之美与创造的乐趣
+- 📚 中国历史与古典文学，在故纸堆里寻找智慧与共鸣
 - 🏸 羽毛球 & 🏂 单板滑雪，在运动中释放能量、保持专注
 - 🍳 烹饪中餐，用烟火气治愈日常
 
@@ -104,7 +104,7 @@ layoutBackgroundHeaderSpace: false
   <div class="mbti-row">
     <span class="mbti-left-label">内向</span>
     <div class="mbti-bar-wrapper">
-      <div class="mbti-bar" style="width: 45%; background: rgba(54, 162, 235, 0.8); color: rgba(54, 162, 235, 1);">
+      <div class="mbti-bar" style="width: 55%; background: rgba(54, 162, 235, 0.8); color: rgba(54, 162, 235, 1);">
         <span class="mbti-percent-badge" style="color: rgba(54, 162, 235, 1);">55%</span>
       </div>
     </div>
@@ -113,42 +113,42 @@ layoutBackgroundHeaderSpace: false
 
   <!-- 第二行 -->
   <div class="mbti-row">
-    <span class="mbti-left-label">求真务实</span>
+    <span class="mbti-left-label">天马行空</span>
     <div class="mbti-bar-wrapper">
       <div class="mbti-bar" style="width: 69%; background: rgba(241, 196, 15, 0.8); color: rgba(241, 196, 15, 1);">
         <span class="mbti-percent-badge" style="color: rgba(241, 196, 15, 1);">69%</span>
       </div>
     </div>
-    <span class="mbti-right-label">天马行空</span>
+    <span class="mbti-right-label">求真务实</span>
   </div>
 
   <!-- 第三行 -->
   <div class="mbti-row">
-    <span class="mbti-left-label">情感细腻</span>
+    <span class="mbti-left-label">理性思考</span>
     <div class="mbti-bar-wrapper">
       <div class="mbti-bar" style="width: 74%; background: rgba(46, 204, 113, 0.8); color: rgba(46, 204, 113, 1);">
         <span class="mbti-percent-badge" style="color: rgba(46, 204, 113, 1);">74%</span>
       </div>
     </div>
-    <span class="mbti-right-label">理性思考</span>
+    <span class="mbti-right-label">情感细腻</span>
   </div>
 
   <!-- 第四行 -->
   <div class="mbti-row">
-    <span class="mbti-left-label">随机应变</span>
+    <span class="mbti-left-label">运筹帷幄</span>
     <div class="mbti-bar-wrapper">
       <div class="mbti-bar" style="width: 57%; background: rgba(155, 89, 182, 0.8); color: rgba(155, 89, 182, 1);">
         <span class="mbti-percent-badge" style="color: rgba(155, 89, 182, 1);">57%</span>
       </div>
     </div>
-    <span class="mbti-right-label">运筹帷幄</span>
+    <span class="mbti-right-label">随机应变</span>
   </div>
 
   <!-- 第五行 -->
   <div class="mbti-row">
     <span class="mbti-left-label">情绪易波动</span>
     <div class="mbti-bar-wrapper">
-      <div class="mbti-bar" style="width: 43%; background: rgba(231, 76, 60, 0.8); color: rgba(231, 76, 60, 1);">
+      <div class="mbti-bar" style="width: 57%; background: rgba(231, 76, 60, 0.8); color: rgba(231, 76, 60, 1);">
         <span class="mbti-percent-badge" style="color: rgba(231, 76, 60, 1);">57%</span>
       </div>
     </div>

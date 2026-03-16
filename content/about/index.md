@@ -104,7 +104,7 @@ Interests:
   <div class="mbti-row">
     <span class="mbti-left-label">Introversion</span>
     <div class="mbti-bar-wrapper">
-      <div class="mbti-bar" style="width: 45%; background: rgba(54, 162, 235, 0.8); color: rgba(54, 162, 235, 1);">
+      <div class="mbti-bar" style="width: 55%; background: rgba(54, 162, 235, 0.8); color: rgba(54, 162, 235, 1);">
         <span class="mbti-percent-badge" style="color: rgba(54, 162, 235, 1);">55%</span>
       </div>
     </div>
@@ -113,45 +113,45 @@ Interests:
 
   <!-- Row 2: Intuitive / Observant -->
   <div class="mbti-row">
-    <span class="mbti-left-label">Observant</span>
+    <span class="mbti-left-label">Intuitive</span>
     <div class="mbti-bar-wrapper">
       <div class="mbti-bar" style="width: 69%; background: rgba(241, 196, 15, 0.8); color: rgba(241, 196, 15, 1);">
         <span class="mbti-percent-badge" style="color: rgba(241, 196, 15, 1);">69%</span>
       </div>
     </div>
-    <span class="mbti-right-label">Intuitive</span>
+    <span class="mbti-right-label">Observant</span>
   </div>
 
   <!-- Row 3: Thinking / Feeling -->
   <div class="mbti-row">
-    <span class="mbti-left-label">Feeling</span>
+    <span class="mbti-left-label">Thinking</span>
     <div class="mbti-bar-wrapper">
       <div class="mbti-bar" style="width: 74%; background: rgba(46, 204, 113, 0.8); color: rgba(46, 204, 113, 1);">
         <span class="mbti-percent-badge" style="color: rgba(46, 204, 113, 1);">74%</span>
       </div>
     </div>
-    <span class="mbti-right-label">Thinking</span>
+    <span class="mbti-right-label">Feeling</span>
   </div>
 
   <!-- Row 4: Judging / Prospecting -->
   <div class="mbti-row">
-    <span class="mbti-left-label">Prospecting</span>
+    <span class="mbti-left-label">Judging</span>
     <div class="mbti-bar-wrapper">
       <div class="mbti-bar" style="width: 57%; background: rgba(155, 89, 182, 0.8); color: rgba(155, 89, 182, 1);">
         <span class="mbti-percent-badge" style="color: rgba(155, 89, 182, 1);">57%</span>
       </div>
     </div>
-    <span class="mbti-right-label">Judging</span>
+    <span class="mbti-right-label">Prospecting</span>
   </div>
 
   <!-- Row 5: Assertive / Turbulent -->
   <div class="mbti-row">
-    <span class="mbti-left-label">Turbulent</span>
+    <span class="mbti-left-label">Assertive</span>
     <div class="mbti-bar-wrapper">
-      <div class="mbti-bar" style="width: 43%; background: rgba(231, 76, 60, 0.8); color: rgba(231, 76, 60, 1);">
+      <div class="mbti-bar" style="width: 57%; background: rgba(231, 76, 60, 0.8); color: rgba(231, 76, 60, 1);">
         <span class="mbti-percent-badge" style="color: rgba(231, 76, 60, 1);">57%</span>
       </div>
     </div>
-    <span class="mbti-right-label">Assertive</span>
+    <span class="mbti-right-label">Turbulent</span>
   </div>
 </div>

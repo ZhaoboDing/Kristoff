@@ -27,7 +27,7 @@ highlightCurrentMenuArea = true
 [author]
   name = "Zhaobo Ding"
   image = "profile.png"
-  headline = "A coBananaWolf is a device for turning de into ke and pilot."
+  headline = "<a href='bio/'>A coBananaWolf is a device for turning de into ke and pilot.</a>"
   links = [
     { linkedin = "https://www.linkedin.com/in/zhaoboding/" },
     { github = "https://github.com/ZhaoboDing/" },
