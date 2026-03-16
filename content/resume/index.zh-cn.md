@@ -217,7 +217,7 @@ layoutBackgroundHeaderSpace: false
       <div class="timeline-content">
         <div class="timeline-header">
           <span class="timeline-company">Integrated Device Technology</span>
-          <span class="timeline-period">Jan 2018 - Dec 2018</span>
+          <span class="timeline-period">Jan 2018 - Apr 2018</span>
         </div>
         <div class="timeline-position">Algorithm Engineer Co-op</div>
       </div>
