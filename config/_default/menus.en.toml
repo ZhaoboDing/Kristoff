@@ -17,13 +17,18 @@
 
 [[main]]
   name = "Posts"
-  pageRef = "posts"
   weight = 20
 
 [[main]]
   name = "Resume"
   pageRef = "resume"
   weight = 30
+
+[[main]]
+  name = "词"
+  parent = "Posts"
+  pageRef = "ci"
+  weight = 10
 
 
 #[[main]]

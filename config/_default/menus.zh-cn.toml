@@ -7,9 +7,14 @@
   weight = 10
 
 [[main]]
-  name = "文章"
-  pageRef = "posts"
+  name = "笔记"
   weight = 20
+
+[[main]]
+  name = "词"
+  parent = "笔记"
+  pageRef = "ci"
+  weight = 10
 
 [[main]]
   name = "简历"
