@@ -9,6 +9,7 @@ showDateUpdated : false
 showHeadingAnchors : false
 showPagination : false
 showReadingTime : false
+showRelatedContent: false
 showTableOfContents : false
 showTaxonomies : false 
 showWordCount : false
