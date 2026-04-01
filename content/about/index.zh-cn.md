@@ -33,6 +33,7 @@ layoutBackgroundHeaderSpace: false
 - 🏸 羽毛球 & 🏂 单板滑雪，在运动中释放能量、保持专注
 - 🍳 烹饪中餐，用烟火气治愈日常
 
+## INTJ-A
 <style>
 .mbti-container {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
