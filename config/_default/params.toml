@@ -24,6 +24,8 @@ highlightCurrentMenuArea = true
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
+description = "Zhaobo Ding - Machine Learning Engineer at StackAdapt, based in Toronto. Personal website featuring thoughts on machine learning, programming, mathematics, and life."
+
 [author]
   name = "Zhaobo Ding"
   image = "profile.png"

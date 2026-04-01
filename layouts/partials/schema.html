@@ -1,0 +1,62 @@
+{{- if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": {{ site.Home.Permalink | safeURL }},
+  "name": "{{ .Site.Title | safeJS }}",
+  {{ with .Site.Params.description }}"description": "{{ . | safeJS }}",{{ end }}
+  {{ with .Site.LanguageCode }}"inLanguage": "{{ . }}",{{ end }}
+  "url": {{ site.Home.Permalink | safeURL }},
+  {{ with .Site.Params.keywords }}"keywords": {{ . }},{{ end }}
+  "publisher": {
+    "@type": "Person",
+    "name": "{{ .Site.Params.Author.name | safeJS }}",
+    {{ with .Site.Params.Author.image }}"image": {
+      "@type": "ImageObject",
+      "url": "{{ . | absURL }}",
+      "width": 400,
+      "height": 400
+    },{{ end }}
+    {{- $sameAs := slice -}}
+    {{- with .Site.Params.Author.links -}}
+      {{- range $link := . -}}
+        {{- range $key, $value := $link -}}
+          {{- if and (ne $key "email") (not (strings.HasPrefix $value "mailto:")) -}}
+            {{- $sameAs = $sameAs | append $value -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- with $sameAs }}"sameAs": {{ . }},{{ end }}
+    "url": {{ site.Home.Permalink | safeURL }}
+  }
+}
+</script>
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": "https://dingzhaobo.net/#person",
+    "name": "Zhaobo Ding",
+    "url": "https://dingzhaobo.net/",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://dingzhaobo.net/profile.png",
+      "width": 400,
+      "height": 400
+    },
+    "jobTitle": "Machine Learning Engineer",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "StackAdapt"
+    },
+    "sameAs": [
+      "https://www.linkedin.com/in/zhaoboding/",
+      "https://github.com/ZhaoboDing/",
+      "https://www.instagram.com/bananawolf_ding/"
+    ]
+  }
+  </script>
+{{- end }}
