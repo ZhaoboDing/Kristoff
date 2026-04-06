@@ -33,7 +33,7 @@ Interests:
 - 🏸 Badminton & 🏂 Snowboarding
 - 🍳 Cooking Chinese food
 
-## INTJ-A
+## INTJ-T
 <style>
 .mbti-container {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
