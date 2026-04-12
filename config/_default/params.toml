@@ -34,7 +34,6 @@ description = "Zhaobo Ding - Machine Learning Engineer at StackAdapt, based in T
     { linkedin = "https://www.linkedin.com/in/zhaoboding/" },
     { github = "https://github.com/ZhaoboDing/" },
     { instagram = "https://www.instagram.com/bananawolf_ding/" },
-    { email = "mailto:me@dingzhaobo.net" },
   ]
 
 [header]
