@@ -20,22 +20,28 @@
   weight = 20
 
 [[main]]
-  name = "Thinkings"
+  name = "Daily Ramblings"
   parent = "Posts"
   pageRef = "thinkings"
   weight = 10
 
 [[main]]
+  name = "Tech Tangents"
+  parent = "Posts"
+  pageRef = "techs"
+  weight = 20
+
+[[main]]
   name = "词"
   parent = "Posts"
   pageRef = "ci"
-  weight = 20
+  weight = 30
 
 
 [[main]]
   name = "Resume"
   pageRef = "resume"
-  weight = 30
+  weight = 40
 
 
 

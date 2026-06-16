@@ -11,18 +11,24 @@
   weight = 20
 
 [[main]]
-  name = "思考"
+  name = "生活杂想"
   parent = "笔记"
   pageRef = "thinkings"
   weight = 10
 
 [[main]]
+  name = "技术脑洞"
+  parent = "笔记"
+  pageRef = "techs"
+  weight = 20
+
+[[main]]
   name = "词"
   parent = "笔记"
   pageRef = "ci"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "简历"
   pageRef = "resume"
-  weight = 30
+  weight = 40
