@@ -110,7 +110,6 @@ Interests:
         <span class="mbti-percent-badge" style="color: rgba(54, 162, 235, 1);">55%</span>
       </div>
     </div>
-    <span class="mbti-right-label">Extraversion</span>
   </div>
 
   <!-- Row 2: Intuitive / Observant -->
@@ -121,7 +120,6 @@ Interests:
         <span class="mbti-percent-badge" style="color: rgba(241, 196, 15, 1);">69%</span>
       </div>
     </div>
-    <span class="mbti-right-label">Observant</span>
   </div>
 
   <!-- Row 3: Thinking / Feeling -->
@@ -132,7 +130,6 @@ Interests:
         <span class="mbti-percent-badge" style="color: rgba(46, 204, 113, 1);">74%</span>
       </div>
     </div>
-    <span class="mbti-right-label">Feeling</span>
   </div>
 
   <!-- Row 4: Judging / Prospecting -->
@@ -143,17 +140,15 @@ Interests:
         <span class="mbti-percent-badge" style="color: rgba(155, 89, 182, 1);">57%</span>
       </div>
     </div>
-    <span class="mbti-right-label">Prospecting</span>
   </div>
 
   <!-- Row 5: Assertive / Turbulent -->
   <div class="mbti-row">
-    <span class="mbti-left-label">Assertive</span>
+    <span class="mbti-left-label">Turbulent</span>
     <div class="mbti-bar-wrapper">
       <div class="mbti-bar" style="width: 57%; background: rgba(231, 76, 60, 0.8); color: rgba(231, 76, 60, 1);">
         <span class="mbti-percent-badge" style="color: rgba(231, 76, 60, 1);">57%</span>
       </div>
     </div>
-    <span class="mbti-right-label">Turbulent</span>
   </div>
 </div>

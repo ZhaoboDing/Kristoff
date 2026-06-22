@@ -110,7 +110,6 @@ layoutBackgroundHeaderSpace: false
         <span class="mbti-percent-badge" style="color: rgba(54, 162, 235, 1);">55%</span>
       </div>
     </div>
-    <span class="mbti-right-label">外向</span>
   </div>
 
   <!-- 第二行 -->
@@ -121,7 +120,6 @@ layoutBackgroundHeaderSpace: false
         <span class="mbti-percent-badge" style="color: rgba(241, 196, 15, 1);">69%</span>
       </div>
     </div>
-    <span class="mbti-right-label">求真务实</span>
   </div>
 
   <!-- 第三行 -->
@@ -132,7 +130,6 @@ layoutBackgroundHeaderSpace: false
         <span class="mbti-percent-badge" style="color: rgba(46, 204, 113, 1);">74%</span>
       </div>
     </div>
-    <span class="mbti-right-label">情感细腻</span>
   </div>
 
   <!-- 第四行 -->
@@ -143,7 +140,6 @@ layoutBackgroundHeaderSpace: false
         <span class="mbti-percent-badge" style="color: rgba(155, 89, 182, 1);">57%</span>
       </div>
     </div>
-    <span class="mbti-right-label">随机应变</span>
   </div>
 
   <!-- 第五行 -->
@@ -154,6 +150,5 @@ layoutBackgroundHeaderSpace: false
         <span class="mbti-percent-badge" style="color: rgba(231, 76, 60, 1);">57%</span>
       </div>
     </div>
-    <span class="mbti-right-label">自信果断</span>
   </div>
 </div>
