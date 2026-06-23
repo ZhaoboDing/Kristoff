@@ -27,7 +27,7 @@ highlightCurrentMenuArea = true
 description = "Zhaobo Ding - Machine Learning Engineer at StackAdapt, based in Toronto. Personal website featuring thoughts on machine learning, programming, mathematics, and life."
 
 [author]
-  name = "Zhaobo Ding"
+  name = "Zhaobo Ding | 丁兆伯"
   image = "profile.png"
   headline = "<a href='bio/'>A coBananaWolf is a device for turning de into ke and pilot.</a>"
   links = [
