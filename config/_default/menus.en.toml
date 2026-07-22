@@ -43,5 +43,10 @@
   pageRef = "resume"
   weight = 40
 
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 30
+
 
 
